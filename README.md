@@ -53,7 +53,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=thing-zoo&show_icons=true&theme=radical" />
   </a>
   <a href="s">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thing-zoo&langs_count=14&hide=html,css,scss,Ruby,Objective-C&exclude_repo=thing-zoo.github.io&layout=compact&theme=radical" width="36%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thing-zoo&langs_count=14&hide=html,css,scss,Ruby,Objective-C&exclude_repo=thing-zoo.github.io&layout=compact&theme=radical" width="36.5%"/>
   </a>
 </p>
 
