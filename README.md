@@ -5,7 +5,7 @@
 
 
 <!-- 2. body -->
-<!--    -->
+<!--  기술  -->
 <h3 >📚 Tech Stack 📚</h3>
 <p >
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>&nbsp
