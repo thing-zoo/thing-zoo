@@ -5,6 +5,7 @@
 
 
 <!-- 2. body -->
+<!--    -->
 <h3 >📚 Tech Stack 📚</h3>
 <p >
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>&nbsp
@@ -30,7 +31,7 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp
 </p>
 
-
+<!-- 연락처 -->
 <h3 >🌈 Contact Me 🌈</h3>
 <p >
   <!--  벨로그  --> <!--   <a href="https://velog.io/@hyeinisfree"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp -->
